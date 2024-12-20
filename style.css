@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.container{
+    max-width: 1440px;
+}
+
+header{
+    margin: 20px;
+    padding-left: 150px;
+}
+.lattenav{
+    display: flex;
+    gap:150px;
+    margin-left: 150px;
+
+}
+.texts{
+    display: flex;
+    gap:40px;
+}
+.icons{
+    display: flex;
+    gap:40px;
+}
